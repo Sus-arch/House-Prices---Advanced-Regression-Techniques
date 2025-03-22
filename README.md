@@ -1,7 +1,7 @@
 # House prices advanced regression techniques
 [Kaggle competion](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 
-### Teck Stack
+### Tech Stack
 - Python
 - Pandas, Numpy
 - Matplotlib Seaborn
